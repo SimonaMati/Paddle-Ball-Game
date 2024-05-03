@@ -1,4 +1,4 @@
-# Game-1
+# Paddle Game
 
 Simple Java game.
 The sound and gifs are in process.
